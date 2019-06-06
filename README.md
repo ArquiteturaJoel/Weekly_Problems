@@ -27,9 +27,9 @@ Questions will be week-wise in `week_*/Readme.md`.
 
 ## All questions
 
-1. [Week 1](/week_1)
-1. [Week 2](/week_2)
-1. [Week 3](/week_3)
-1. [Week 4](/week_4)
+1. [Week 1](/week_1/README.md)
+1. [Week 2](/week_2/README.md)
+1. [Week 3](/week_3/README.md)
+1. [Week 4](/week_4/README.md)
 
 End
