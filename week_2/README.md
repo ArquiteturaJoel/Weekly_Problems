@@ -1,4 +1,4 @@
-# Questions
+# Questions : Week 2
 
 ## Question 1
 
@@ -13,7 +13,6 @@ Print this pyramid for n number of lines:
 ```
 
 here n is 5.
-
 
 ## Question 2
 
@@ -35,8 +34,8 @@ Input:
 Output:
 1
 ```
-[Go to reference](https://practice.geeksforgeeks.org/problems/four-elements/0)
 
+[Go to reference](https://practice.geeksforgeeks.org/problems/four-elements/0)
 
 ## Question 3
 
@@ -58,8 +57,8 @@ sumimasen
 output:
 YES
 ```
-[Go to reference](http://codeforces.com/problemset/problem/1008/A)
 
+[Go to reference](http://codeforces.com/problemset/problem/1008/A)
 
 ## Question 4
 
@@ -77,7 +76,6 @@ Explanation:
 ```
 
 [Go to reference](https://practice.geeksforgeeks.org/problems/find-n-th-fortunate-number/0)
-
 
 ## Question 5
 

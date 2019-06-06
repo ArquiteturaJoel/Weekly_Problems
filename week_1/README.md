@@ -1,4 +1,4 @@
-# Questions
+# Questions : Week 1
 
 ## Question 1
 
@@ -83,11 +83,11 @@ For example
 
 ```bash
   Input
-    x1 = 0  
-    v1 = 3  
-    x2 = 4  
+    x1 = 0
+    v1 = 3
+    x2 = 4
     v2 = 2
-  
+
   Output -> YES
 ```
 

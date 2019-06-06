@@ -3,7 +3,7 @@
 A repository where weekly📅 questions are posted of algorithms to improve problem solving skills💹.
 Any one willing to contribute is welcome 🙏.
 
-Questions will be week-wise in `week_*/Readme.md`.
+Questions will be week-wise in `week_<week number>/Readme.md`.
 
 ## To Contribute
 
